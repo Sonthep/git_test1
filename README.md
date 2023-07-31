@@ -1,2 +1,3 @@
 # git_test1
-Basic Git
+Basic git
+Ordin Test
